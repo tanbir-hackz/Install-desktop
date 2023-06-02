@@ -11,3 +11,7 @@ Open Termix In Android And Type Command:(
 4. cd Install-desktop
 5. python install-desktop.py
 6. Follow The Instructions 
+
+
+# Screenshot
+![Screenshot_20230602-123139-1](https://github.com/tanbir-hackz/Install-desktop/assets/135303279/98ad0512-ee1e-4754-a696-35eef7f4616a)
