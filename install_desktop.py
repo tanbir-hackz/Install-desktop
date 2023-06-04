@@ -33,4 +33,4 @@ except:
 #Done 
 print("\033[1;32m Tnx For Install Dekstop. This Python File Created By Tanbir Rohoman \n")
 print("")
-print("\033[1;32m To Run Type : "vncserver -geometry 1280x720"")
+print("\033[1;32m To Run Type : "vncserver -geometry 1280x720" \n")
