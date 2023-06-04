@@ -19,6 +19,11 @@ Open Termix In Android And Type Command:(
 12. Use "#" before = "aterm -geometry 80x24+10+10 -ls &" and "twn &" then type = "startxfce4 &" Like This :![20230604_185948-1](https://github.com/tanbir-hackz/Install-desktop/assets/135303279/2b96de6b-1575-465c-b071-414093a7d641)
 13. Then Type Ctrl+O, Ctrl+X, Y, Enter
 
+# Run
+1. vncserver -geometry 1280x720
+# Exit
+1. vncserver -kill :1
+
 
 
 
