@@ -17,7 +17,7 @@ Open Termix In Android And Type Command:(
 10. Then When You In This Page :
 11. ![20230604_185900](https://github.com/tanbir-hackz/Install-desktop/assets/135303279/0850e5e4-f562-4542-8347-04a19d69eed9)
 12. Use "#" before = "aterm -geometry 80x24+10+10 -ls &" and "twn &" then type = "startxfce4 &" Like This :![20230604_185948-1](https://github.com/tanbir-hackz/Install-desktop/assets/135303279/2b96de6b-1575-465c-b071-414093a7d641)
-13. Then Type Ctrl+O, Ctrl+X, Enter
+13. Then Type Ctrl+O, Ctrl+X, Y, Enter
 
 
 
